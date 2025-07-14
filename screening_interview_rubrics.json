@@ -1,0 +1,109 @@
+{
+  "1": {
+    "category": "Opening and Motivation",
+    "question": "Can you take the first few minutes to walk us through your CV - where you started, the moves you made, and why you moved?",
+    "rubric": {
+      "excellent": "Candidate clearly and concisely walks through their career trajectory. They explain why they made each move, tying motivations to personal or professional growth, mission alignment, or strategic career development. Transitions between roles are framed positively and demonstrate learning or skill-building. Their story shows intentionality, self-awareness, and a logical progression toward leadership.",
+      "satisfactory": "Candidate walks through their career path clearly, noting most roles and transitions. They provide reasons for most moves, though some might lack depth or strategic framing. Some signs of growth and learning are present, though they may not be consistently tied to job changes.",
+      "unsatisfactory": "Candidate provides a disjointed or confusing narrative of their CV. Explanations for moves are unclear, missing, or seem reactive rather than intentional. Candidate may focus heavily on external factors without reflecting on their own role or learning."
+    }
+  },
+  "2": {
+    "category": "Opening and Motivation",
+    "question": "What interests you in the Executive Director role at NumFOCUS? What about the mission resonates with you?",
+    "rubric": {
+      "excellent": "Candidate articulates a specific interest in the Executive Director role that goes beyond generic statements. They demonstrate a deep understanding of NumFOCUS\u2019s mission, programs, and impact. Candidate makes clear, authentic connections between their personal/professional values and NumFOCUS\u2019s mission.",
+      "satisfactory": "Candidate shows clear interest in the role and organization. They reference the mission or work of NumFOCUS with reasonable familiarity. Their motivations are mostly aligned with the organization's goals. Interest appears genuine, though may lean slightly generic or rehearsed.",
+      "unsatisfactory": "Candidate struggles to explain why they want the Executive Director role specifically at NumFOCUS. References to the mission are vague, incorrect, or absent. Candidate shows little to no understanding of NumFOCUS or its mission. The response feels generic and could apply to any nonprofit."
+    }
+  },
+  "3": {
+    "category": "Strategic Leadership and Delivery",
+    "question": "Describe a time you developed and executed a strategic plan. How did you shape and communicate a vision? What were the outcomes? What would you do differently?",
+    "rubric": {
+      "excellent": "Candidate provides a clear, specific example of developing and executing a strategic plan. They articulate how they shaped the vision, engaged stakeholders, and communicated it effectively. Outcomes are clearly described, with measurable impacts or organizational improvements. Candidate demonstrates thoughtful reflection, identifying meaningful lessons learned and specific changes they would make next time.",
+      "satisfactory": "Candidate provides a strong example of strategic planning and execution or shares an example that touches on strategic planning but may be more operational or tactical. They explain how they shaped and communicated a vision, though communication strategies could be described in greater depth. Outcomes are positive and mostly clear, even if metrics or impacts could be stronger. Candidate reflects on what they would do differently, but insights may be surface level.",
+      "unsatisfactory": "Candidate struggles to provide a clear example of strategic planning, or has no example. Explanation of shaping or communicating a vision is missing, unclear, or weak. Outcomes are negative, absent, or not tied to the candidate\u2019s actions. No meaningful reflection on what they would do differently; may deflect or blame others for challenges."
+    }
+  },
+  "4": {
+    "category": "Strategic Leadership and Delivery",
+    "question": "Describe a time you collaborated with a board of directors. What worked well? What challenges did you encounter?",
+    "rubric": {
+      "excellent": "Candidate has substantial experience collaborating directly with a Board of Directors. Provides a clear, specific example with meaningful stakes. Demonstrates nuanced understanding of the board\u2019s governance role versus management responsibilities. They are up to date on the academic literature around nonprofit governance and board engagement.",
+      "satisfactory": "Candidate has direct or adjacent experience working with a Board of Directors. Provides a strong example that demonstrates understanding of the board\u2019s function and dynamics. If not direct, has relevant supervisory or governance-related experience. Ties experiences to the role appropriately.",
+      "unsatisfactory": "Candidate has minimal or no experience with a Board of Directors. Example is vague or low-stakes. Demonstrates limited understanding of board governance vs. management responsibilities."
+    }
+  },
+  "5": {
+    "category": "Mission and Values Alignment",
+    "question": "What is your experience working with or supporting open-source software communities? What open-source projects or ecosystems have you worked with directly?",
+    "rubric": {
+      "excellent": "Candidate has direct, hands-on experience supporting or participating in open-source communities. Names specific projects, ecosystems, or communities, and shows a clear understanding of open-source culture. If limited direct experience, provides a highly thoughtful plan for learning and engagement.",
+      "satisfactory": "Candidate has some direct or indirect experience with open-source. References specific projects, though involvement may be limited. If no direct experience, offers a credible approach to learning and contributing.",
+      "unsatisfactory": "Candidate has little or no open-source experience. Struggles to name specific communities. Learning plan is weak, vague, or unrealistic."
+    }
+  },
+  "6": {
+    "category": "Operational and Team Management",
+    "question": "What has been your largest budgetary responsibility? What is your experience overseeing financial strategy and budgeting decisions?",
+    "rubric": {
+      "excellent": "Candidate clearly states budget size and context. Gives strong examples of financial planning, forecasting, and alignment with strategy. Demonstrates deep understanding of stewardship and transparency.",
+      "satisfactory": "Candidate describes relevant financial experience, even if scale or role was limited. Shows sound budgeting knowledge but with less strategic depth.",
+      "unsatisfactory": "Candidate has limited or no financial responsibility. Focuses only on following budgets. Struggles with basic financial oversight."
+    }
+  },
+  "7": {
+    "category": "Operational and Team Management",
+    "question": "How do you see your management style, what guides it, and how have your colleagues perceived it?",
+    "rubric": {
+      "excellent": "Candidate offers clear, reflective description with examples. Cites guiding values or philosophies. Shows strong self-awareness and evolution of style.",
+      "satisfactory": "Candidate gives a reasonable description with some examples and values. Some insight into perception, but depth may be limited.",
+      "unsatisfactory": "Candidate gives vague or inconsistent response. Little understanding of management principles or feedback from others."
+    }
+  },
+  "8": {
+    "category": "Operational and Team Management",
+    "question": "Tell me about a time when you had to navigate a difficult personnel decision\u2014such as letting someone go\u2014during a period of organizational change.",
+    "rubric": {
+      "excellent": "Candidate provides high-stakes example with strategy, communication, and morale management. Demonstrates leadership and empathy.",
+      "satisfactory": "Candidate shares relevant example. Shows appropriate communication and effort, though may be more reactive than strategic.",
+      "unsatisfactory": "Candidate struggles to describe a valid example. Decision-making is unclear or defensive. Limited communication or morale efforts."
+    }
+  },
+  "9": {
+    "category": "Fundraising and External Relations",
+    "question": "NumFOCUS engages a diverse funding base. Can you speak about your experience developing relationships and fundraising from corporates, foundations, and/or academic institutions?",
+    "rubric": {
+      "excellent": "Candidate provides diverse, specific examples of fundraising. Shows strategy, adaptability, and measurable success.",
+      "satisfactory": "Candidate offers solid but possibly narrow experience. Describes general strategies and some success, but limited scope.",
+      "unsatisfactory": "Candidate lacks fundraising experience or offers vague, incomplete examples. Shows minimal understanding of diverse funding sources."
+    }
+  },
+  "10": {
+    "category": "Community Engagement",
+    "question": "Can you speak to your experience representing an organization externally?",
+    "rubric": {
+      "excellent": "Multiple strong examples. Tailors messaging and shows confidence in external representation with tangible outcomes.",
+      "satisfactory": "Some relevant experience, possibly narrower in scope. Shows understanding of representation, but limited depth.",
+      "unsatisfactory": "Little or no external representation. Struggles with messaging and impact. Examples are vague or missing."
+    }
+  },
+  "11": {
+    "category": "Community Engagement",
+    "question": "How do you engage stakeholders with varying levels of technical expertise?",
+    "rubric": {
+      "excellent": "Describes thoughtful strategy for adapting communication. Gives strong examples of inclusive messaging.",
+      "satisfactory": "Some examples provided, but strategy may lack depth or nuance. Shows general awareness of audience variation.",
+      "unsatisfactory": "Fails to show a clear strategy. Treats all stakeholders similarly or leans on jargon. Minimal awareness of communication needs."
+    }
+  },
+  "12": {
+    "category": "Logistics",
+    "question": "When would you be able to start a new role? Do you have any timing constraints?"
+  },
+  "13": {
+    "category": "Logistics",
+    "question": "What are your salary expectations for a new role?"
+  }
+}

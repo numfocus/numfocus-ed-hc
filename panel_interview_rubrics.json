@@ -1,0 +1,74 @@
+{
+  "1": {
+    "category": "Opening and Motivation",
+    "question": "Reflecting on your career, share the moment that best illustrates why leading a mission-driven organization energizes you, and tell us what draws you to NumFOCUS at this point in your journey.",
+    "rubric": {
+      "excellent": "Answers question with an example that is highly relevant to the role of ED at a nonprofit. Shows experience working with mission-driven/NP organizations. Clearly reflects why they are drawn to mission-driven work that is aligned with NF values. Identifies why NumFOCUS is interesting to them and demonstrates a deep understanding of the organization.",
+      "satisfactory": "Answers question with an example that is relevant to the role of ED at a nonprofit. Experience is moderately related to mission-driven, nonprofit work. Reflects on why that individual is drawn to mission-driven work in a way that is logically explained. Identifies why NumFOCUS is interesting to them in a way that demonstrates passing knowledge of NF.",
+      "unsatisfactory": "Answers question with an example that is irrelevant to the role of ED at a nonprofit. Doesn\u2019t bridge the gap between their experience and mission-driven/NP. Does not show introspection on why they are drawn to mission-driven work or their reasoning is illogical. Misidentifies facts about NumFOCUS or generally shows a lack of understanding about NumFOCUS."
+    }
+  },
+  "2": {
+    "category": "Mission & Values Alignment",
+    "question": "Tell us about a time you fostered a genuine sense of belonging, kindness, and mutual respect for an under-represented group while advancing your organization\u2019s mission. What practices made it effective, and how would you adapt those practices so NumFOCUS staff and project communities remain mission-aligned and inclusive?",
+    "rubric": {
+      "excellent": "Response demonstrates mission alignment with inclusivity for underrepresented groups for an example that is substantial to the function of the organization. Clear articulation that their endeavor was successful with demonstrated metrics or outcomes. Clearly identifies what made the effort effective and articulates their specific role in that success. Articulates specific and actionable practices that NumFOCUS staff and project communities can adopt.",
+      "satisfactory": "Response hits most of the following: mission alignment, inclusive outcomes, focus on underrepresented groups. Success is limited or not well explained. Practices suggested are high-level or generic and may not be specific to NumFOCUS.",
+      "unsatisfactory": "Example lacks clarity or substance. No clear success metrics. Candidate cannot articulate their role or effective practices. No effort to draw parallels to NumFOCUS."
+    }
+  },
+  "3": {
+    "category": "Strategic Leadership & Delivery",
+    "question": "Describe a time you inherited an existing strategy that needed both continuity and potentially disruptive change. How did you set measurable goals, learn from feedback, and adjust course\u2014and what principles would shape your first 6- and 12-month roadmap at NumFOCUS?",
+    "rubric": {
+      "excellent": "Shares an example where they navigated continuity and disruption while setting strategy central to organizational impact. Clearly articulates measurable goals, feedback response, and thoughtful reflection. Proposes principled 6- and 12-month NumFOCUS priorities showing strategic insight.",
+      "satisfactory": "Provides an example of strategy adaptation with moderate scope. Describes goals and feedback but lacks depth. Shares general principles for NumFOCUS\u2019s roadmap, showing some awareness but limited detail.",
+      "unsatisfactory": "Example lacks strategic tension or detail. Vague on goals or feedback. No balanced approach or coherent NumFOCUS roadmap provided."
+    }
+  },
+  "4": {
+    "category": "Community, Partnership, and Ecosystem Building",
+    "question": "Tell us about a time you brought together technical and non-technical stakeholders with differing priorities to work toward a shared goal. What did you learn about navigating conflicts equitably, building trust, and keeping people motivated? How would you apply these learnings to position NumFOCUS as a keystone in the open-science ecosystem?",
+    "rubric": {
+      "excellent": "Substantive example aligning diverse stakeholders. Navigates conflict equitably, builds trust, sustains motivation in OSS-like settings. Applies learnings to NumFOCUS with actionable ideas.",
+      "satisfactory": "Example of cross-stakeholder collaboration with moderate complexity. Conflict handling and motivation discussed in general terms. NumFOCUS application is broad or abstract.",
+      "unsatisfactory": "Minimal stakeholder conflict or poor conflict handling. Focus is task-centric, not relational. No useful application to NumFOCUS context."
+    }
+  },
+  "5": {
+    "category": "Operational & Team Management",
+    "question": "Describe a situation where you managed a team through a challenging period. How did you maintain psychological safety, operate within budgetary constraints, and coach under-performers while reallocating resources\u2014and how would you apply those operational practices to NumFOCUS\u2019s remote workforce?",
+    "rubric": {
+      "excellent": "High-stakes example with psychological safety, budgeting, and performance coaching addressed. Practical, mission-aligned remote strategies for NumFOCUS proposed.",
+      "satisfactory": "Relevant team leadership example with moderate challenges. Addresses key aspects but lacks integration or depth. General suggestions for NumFOCUS.",
+      "unsatisfactory": "Limited or unclear example. No clear strategy for team dynamics or budgeting. Fails to connect to NumFOCUS\u2019s context."
+    }
+  },
+  "6": {
+    "category": "Operational & Team Management",
+    "question": "Tell us about a time you worked with a Board of Directors to navigate financial governance or oversight. What did you learn about aligning fiscal strategy with mission impact? How would you successfully achieve that while fostering a culture of financial transparency and collaboration at NumFOCUS?",
+    "rubric": {
+      "excellent": "Clear, high-stakes board example demonstrating stewardship, transparency, and strategic alignment. Applies practical governance practices to NumFOCUS\u2019s model.",
+      "satisfactory": "Relevant but moderate example. Describes fiscal alignment and some transparency, but lacks reflection. Suggestions for NumFOCUS are generic.",
+      "unsatisfactory": "Unclear board engagement. Poor linkage of finance to mission. No actionable ideas for NumFOCUS."
+    }
+  },
+  "7": {
+    "category": "Fundraising & External Engagement",
+    "question": "Share an example of leading your organization through a period of financial challenges. Were you able to deepen relationships with existing funders or diversify funding by cultivating new partners or revenue streams\u2014and how would you translate that experience into a resilient fundraising strategy for NumFOCUS?",
+    "rubric": {
+      "excellent": "Strong leadership through financial challenge. Demonstrates funder engagement and income diversification. Strategic and applicable vision for NumFOCUS.",
+      "satisfactory": "Moderate challenge described. Some adaptation in fundraising with mixed results. Offers broad ideas for NumFOCUS.",
+      "unsatisfactory": "Vague challenge, unclear role. Lacks strategic insight or relevant application to NumFOCUS."
+    }
+  },
+  "8": {
+    "category": "Impact and Vision",
+    "question": "Nonprofits are increasingly expected to measure and communicate their impact. Tell us about a time you developed or implemented a meaningful framework to assess impact in a mission-driven organization. How did you validate it and steer progress, and how would you craft and communicate a 5- to 10-year roadmap for NumFOCUS\u2019s sustainability and impact to its diverse stakeholder base?",
+    "rubric": {
+      "excellent": "Substantial framework development example with validation and strategic impact. Proposes tailored, stakeholder-aware roadmap for NumFOCUS.",
+      "satisfactory": "Relevant example with general insights. Framework or roadmap may be underdeveloped or lacking specificity.",
+      "unsatisfactory": "No meaningful framework or strategic vision. Fails to address stakeholder needs or NumFOCUS\u2019s impact goals."
+    }
+  }
+}
