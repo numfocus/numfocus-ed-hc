@@ -1,10 +1,10 @@
-This repository contains the artefacts and data produced and used by the NumFOCUS Hiring Committee for hiring the Executive Director.
+This repository contains the artifacts and data produced and used by the NumFOCUS Hiring Committee for hiring the Executive Director.
 
 The Hiring Committee is comprised of [5 members](https://kees2success.com/blog/building-an-effective-search-committee/#:~:text=Composition%3A%20Recommended%20size%20is%205,should%20be%20current%20board%20members) with representation from as follows:
 
 | Name   | Representation                                                   |
 |------------------|--------------------------------------------------------|
-| [Julie Hollek]    | Administrative Board                                  |
+| [Julie Hollek], Chair| Administrative Board                               |
 | [Sanket Verma]    | Technical Steering Committee and Administrative Board |
 | [Wolf Vollprecht] | Technical Steering Committee                          |
 | [Jim Weiss]       | NumFOCUS Staff                                        |
@@ -12,9 +12,9 @@ The Hiring Committee is comprised of [5 members](https://kees2success.com/blog/b
 
 Here's the link to blog posts published by the HC during the process:
 
-- [Searching for the next Executive Director of NumFOCUS
-NumFOCUS](https://numfocus.medium.com/searching-for-the-next-executive-director-of-numfocus-26313d30f7b7)
+- [Searching for the next Executive Director of NumFOCUS](https://numfocus.medium.com/searching-for-the-next-executive-director-of-numfocus-26313d30f7b7)
 - [NumFOCUS Executive Director Search Update: Job listing is Open [Source]](https://numfocus.medium.com/numfocus-executive-director-search-update-job-listing-is-open-source-a2b9e4fabdf5)
+- [NumFOCUS Executive Director Hiring Process Overview](https://numfocus.medium.com/numfocus-executive-director-hiring-process-overview-20cc59596ff6)
 
 We plan to open-source the process we defined, created and used for the search, which lasted ~6 months. 
 
